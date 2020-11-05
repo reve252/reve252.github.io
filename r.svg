@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-198.08164"
-     inkscape:cy="181.73466"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-64.370333"
+     inkscape:cy="91.857764"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,17 +60,43 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="311.77301"
        inkscape:export-ydpi="311.77301" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.38218307px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80183184;"
-       x="71.824509"
-       y="-35.720905"
-       id="text1423"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan1421"
-         x="71.824509"
-         y="-35.720905"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184;">EVENANTS</tspan></text>
+    <g
+       aria-label="EVENANTS"
+       transform="rotate(90)"
+       style="font-style:normal;font-weight:normal;font-size:21.38218307px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80183184"
+       id="text1423">
+      <path
+         d="M 84.824876,-35.720905 H 73.535083 V -52.80527 h 11.289793 v 2.73692 h -8.039701 v 4.083997 h 7.93279 v 2.672773 h -7.93279 v 4.70408 h 8.039701 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path815" />
+      <path
+         d="m 102.1538,-52.826652 -6.478803,17.105747 h -3.03627 l -6.628476,-17.105747 h 3.677735 l 4.447494,12.016787 4.383348,-12.016787 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path817" />
+      <path
+         d="M 115.26943,-35.720905 H 103.97964 V -52.80527 h 11.28979 v 2.73692 h -8.0397 v 4.083997 h 7.93279 v 2.672773 h -7.93279 v 4.70408 h 8.0397 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path819" />
+      <path
+         d="m 132.0638,-35.720905 h -3.25009 l -7.71897,-11.995405 v 11.995405 h -3.25009 v -17.105747 h 3.7205 l 7.24856,11.1615 v -11.1615 h 3.25009 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path821" />
+      <path
+         d="m 152.51486,-35.720905 h -3.63498 l -1.58228,-3.42115 h -8.29628 l -1.60367,3.42115 h -3.63497 l 8.08247,-17.105747 h 2.58724 z m -6.52157,-6.179451 -2.84383,-6.158069 -2.8866,6.158069 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path823" />
+      <path
+         d="m 168.43856,-35.720905 h -3.25009 L 157.4695,-47.71631 v 11.995405 h -3.25009 v -17.105747 h 3.7205 l 7.24856,11.1615 v -11.1615 h 3.25009 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path825" />
+      <path
+         d="m 183.37302,-49.854528 h -4.72547 v 14.133623 h -3.357 v -14.133623 h -4.72546 v -2.950742 h 12.80793 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path827" />
+      <path
+         d="m 196.9173,-40.211164 q 0,0.962198 -0.42765,1.838868 -0.40626,0.855287 -1.15464,1.518135 -0.74837,0.662848 -1.77472,1.069109 -1.02634,0.384879 -2.26651,0.384879 -1.11187,0 -2.00992,-0.128293 -0.87667,-0.128293 -1.66781,-0.406261 -0.76976,-0.277969 -1.49676,-0.705612 -0.70561,-0.449026 -1.47537,-1.069109 l 2.35204,-2.373423 q 1.02635,0.855288 2.00993,1.218785 0.98358,0.342115 2.13822,0.342115 0.4704,0 0.87667,-0.128293 0.42764,-0.149676 0.72699,-0.38488 0.32073,-0.235204 0.49179,-0.555936 0.19244,-0.320733 0.19244,-0.705612 0,-0.406262 -0.14968,-0.726995 -0.14967,-0.320732 -0.53455,-0.620083 -0.38488,-0.299351 -1.06911,-0.598701 -0.68423,-0.320733 -1.75334,-0.705612 -0.94081,-0.342115 -1.81748,-0.769759 -0.85529,-0.449026 -1.51814,-1.069109 -0.64146,-0.620083 -1.04773,-1.453988 -0.38488,-0.833906 -0.38488,-1.967161 0,-1.090492 0.42765,-2.009925 0.44902,-0.919434 1.1974,-1.5609 0.76976,-0.662847 1.77472,-1.026345 1.02635,-0.363497 2.20237,-0.363497 1.96716,0 3.31424,0.513173 1.34707,0.513172 2.3948,1.496753 l -2.30928,2.330657 q -0.64146,-0.620083 -1.4326,-0.940816 -0.79114,-0.342115 -1.86025,-0.342115 -0.49179,0 -0.91944,0.149676 -0.40626,0.149675 -0.70561,0.406261 -0.29935,0.235204 -0.49179,0.577319 -0.17106,0.320733 -0.17106,0.68423 0,0.406262 0.17106,0.748376 0.17106,0.320733 0.57732,0.641466 0.40626,0.299351 1.06911,0.620083 0.68423,0.299351 1.68919,0.662848 1.28293,0.449026 2.20237,0.98358 0.91943,0.534555 1.49675,1.17602 0.57732,0.641466 0.85529,1.453989 0.27797,0.791141 0.27797,1.796103 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Keep Calm';-inkscape-font-specification:'Keep Calm';fill:#ffffff;fill-opacity:1;stroke-width:0.80183184"
+         id="path829" />
+    </g>
   </g>
 </svg>
